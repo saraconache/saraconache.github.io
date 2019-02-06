@@ -1,0 +1,20 @@
+[
+    {
+    "building":"Campus Centre",
+    "doors":[[51.063716,-114.090231],[51.063880,-114.091061]],
+    "letter":"v",
+    "rooms":["gym","arena","orpheus theatre","parking services","athletics & recreation", "food court", "pool","saitsa"]
+    },
+    {
+    "building":"Johnson-Cobbe Energy Centre",
+    "doors":[[51.064521,-114.090396],[51.064582,-114.091810]],
+    "letter":"k",
+    "rooms":["food court","subway","starbucks"]  
+    },
+    {
+    "building":"Heritage Hall",
+    "doors":[[51.064213,-114.089993],[51.064076,-114.089268]],
+    "letter":"a",
+    "rooms":["Student services","international centre","registry"]
+    }
+]
